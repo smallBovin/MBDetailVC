@@ -1,0 +1,16 @@
+PODS:
+  - MBDetailVC (0.1.0)
+
+DEPENDENCIES:
+  - MBDetailVC (from `../`)
+
+EXTERNAL SOURCES:
+  MBDetailVC:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MBDetailVC: cc98365c59bb722b653465b5da57cf5027d9adff
+
+PODFILE CHECKSUM: 421140d0fc5b060892a3f824f35afab442644449
+
+COCOAPODS: 1.6.1
