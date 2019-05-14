@@ -1,7 +1,7 @@
 {
   "name": "MBDetailVC",
-  "version": "0.1.0",
-  "summary": "A short description of MBDetailVC.",
+  "version": "0.0.1",
+  "summary": "用户详情页",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/smallBovin/MBDetailVC",
   "license": {
@@ -13,10 +13,15 @@
   },
   "source": {
     "git": "https://github.com/smallBovin/MBDetailVC.git",
-    "tag": "0.1.0"
+    "tag": "0.0.1"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "MBDetailVC/Classes/**/*"
+  "source_files": "MBDetailVC/Classes/**/*",
+  "dependencies": {
+    "MBKit": [
+      "~> 1.0.1"
+    ]
+  }
 }
