@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MBDetailVC'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = '用户详情页'
 
 # This description is used to generate tags and improve search results.

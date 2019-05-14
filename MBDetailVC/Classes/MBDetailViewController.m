@@ -7,7 +7,7 @@
 //
 
 #import "MBDetailViewController.h"
-#import <MBExtension.h>
+#import <MBKit/MBExtension.h>
 
 @interface MBDetailViewController ()
 
