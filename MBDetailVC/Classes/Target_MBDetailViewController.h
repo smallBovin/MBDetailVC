@@ -1,8 +1,8 @@
 //
-//  Target_DetailViewController.h
-//  TestPrivatePods
+//  Target_MBDetailViewController.h
+//  MyWheel
 //
-//  Created by 李保洋 on 2019/5/14.
+//  Created by 李保洋 on 2019/5/15.
 //  Copyright © 2019 bovin. All rights reserved.
 //
 
@@ -10,7 +10,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface Target_DetailViewController : NSObject
+@interface Target_MBDetailViewController : NSObject
 
 - (UIViewController *)Action_fetchDetailViewControllerWithParams:(NSDictionary *)params;
 

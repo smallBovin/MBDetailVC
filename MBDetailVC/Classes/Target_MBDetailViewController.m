@@ -1,15 +1,14 @@
 //
-//  Target_DetailViewController.m
-//  TestPrivatePods
+//  Target_MBDetailViewController.m
+//  MyWheel
 //
-//  Created by 李保洋 on 2019/5/14.
+//  Created by 李保洋 on 2019/5/15.
 //  Copyright © 2019 bovin. All rights reserved.
 //
 
-#import "Target_DetailViewController.h"
-#import "MBDetailViewController.h"
+#import "Target_MBDetailViewController.h"
 
-@implementation Target_DetailViewController
+@implementation Target_MBDetailViewController
 
 - (id)Action_fetchDetailViewControllerWithParams:(NSDictionary *)params {
     MBDetailViewController *detailVC = [MBDetailViewController new];
