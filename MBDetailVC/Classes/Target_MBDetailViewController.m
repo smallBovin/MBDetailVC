@@ -7,6 +7,7 @@
 //
 
 #import "Target_MBDetailViewController.h"
+#import "MBDetailViewController.h"
 
 @implementation Target_MBDetailViewController
 
